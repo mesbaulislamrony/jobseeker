@@ -7,4 +7,8 @@ Easily find jobs in your favorite companies, you can also contribute here if you
 ### weDevs
 
 - [weDevs lounge](https://lounge.wedevs.com/)
-- [LinkedIn Creear](https://www.linkedin.com/company/wedevs/jobs)
+- [LinkedIn Career](https://www.linkedin.com/company/wedevs/jobs)
+
+### Braintrust
+
+- [LinkedIn Career](https://www.linkedin.com/company/usebraintrust/jobs)
